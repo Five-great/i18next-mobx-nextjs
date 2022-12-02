@@ -1,0 +1,13 @@
+{
+  "Get started by editing": "从编辑开始",
+  "Welcome to": "欢迎来到",
+  "Documentation": "文档",
+  "Find in-depth information about features and API.": "查找有关的深入信息 {{framework}} 功能和API。",
+  "Learn": "学",
+  "Learn about in an interactive course with quizzes!": "学习关于 {{framework}} 在带有测验的互动课程中！",
+  "Examples": "例子",
+  "Discover and deploy boilerplate example projects.": "发现和部署样板示例 {{framework}} 项目",
+  "Deploy": "部署",
+  "Instantly deploy your Next.js site to a public URL with": "立即部署您的 {{framework}} 站点到一个公共 URL {{deploy}}.",
+  "Created with": "创建于"
+}

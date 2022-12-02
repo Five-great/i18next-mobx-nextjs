@@ -1,0 +1,20 @@
+{
+  "name": "next-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "i18next-browser-languagedetector": "^7.0.1",
+    "i18next-mobx": "*",
+    "mobx": "^5.15.7",
+    "mobx-react": "^6.3.1",
+    "next": "^13.x.x",
+    "react": "^18.x.x",
+    "react-dom": "^18.x.x",
+    "react-i18next": "12.0.0"
+  }
+}

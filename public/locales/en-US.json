@@ -1,0 +1,13 @@
+{
+  "Get started by editing": "Get started by editing",
+  "Welcome to": "Welcome to",
+  "Documentation": "Documentation",
+  "Find in-depth information about features and API.": "Find in-depth information about {{framework}} features and API.",
+  "Learn": "Learn",
+  "Learn about in an interactive course with quizzes!": "Learn about {{framework}} in an interactive course with quizzes!",
+  "Examples": "Examples",
+  "Discover and deploy boilerplate example projects.": "Discover and deploy boilerplate example {{framework}} projects",
+  "Deploy": "Deploy",
+  "Instantly deploy your Next.js site to a public URL with": "Instantly deploy your {{framework}} site to a public URL with {{deploy}}.",
+  "Created with": "Created with"
+}

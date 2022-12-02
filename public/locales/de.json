@@ -1,0 +1,13 @@
+{
+  "Get started by editing": "Beginnen Sie mit der Bearbeitung",
+  "Welcome to": "Willkommen zu",
+  "Documentation": "Dokumentation",
+  "Find in-depth information about features and API.": "Informieren Sie sich ausführlich über {{framework}} Funktionen und API.",
+  "Learn": "Lernen",
+  "Learn about in an interactive course with quizzes!": "Lernen {{framework}} in einem interaktiven Kurs mit Quiz!",
+  "Examples": "Beispiele",
+  "Discover and deploy boilerplate example projects.": "Boilerplate-Beispiel entdecken und bereitstellen {{framework}} Projekte",
+  "Deploy": "Einsetzen",
+  "Instantly deploy your Next.js site to a public URL with": "Stellen Sie Ihre sofort bereit {{framework}} Website zu einer öffentlichen URL mit {{deploy}}.",
+  "Created with": "Hergestellt mit"
+}

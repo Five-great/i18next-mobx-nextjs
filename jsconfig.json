@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "experimentalDecorators": true,
+    "suppressImplicitAnyIndexErrors": true,
+    "target": "ES2016",
+    "module": "esnext",
+    "moduleResolution": "node",
+    "paths": {
+      "@/*": ["src/*"]
+    },
+    "jsx": "preserve",
+    "incremental": true,
+    "lib": ["esnext", "dom", "dom.iterable", "scripthost"]
+  }
+}
